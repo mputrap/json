@@ -10,7 +10,7 @@
   {"id": 8,"zipcode": 11118,"city": "Kota H","stateID": 4},
   {"id": 9,"zipcode": 11119,"city": "Kota I","stateID": 4}
   ],
-  "states"[
+  "states":[
   {"id":1, "stateName":"Provinsi A"},
   {"id":2, "stateName":"Provinsi B"},
   {"id":3, "stateName":"Provinsi C"},
