@@ -1,7 +1,7 @@
 {
   "zipcodes": [
-  {"id": 1,"zipnumber": 11111,"city": "Kota A","stateId": 1},
-  {"id": 2,"zipnumber": 11112,"city": "Kota B","stateId": 1},
+  {"id": 1,"zipcode": 11111,"city": "Kota A","stateId": 1},
+  {"id": 2,"zipcode": 11112,"city": "Kota B","stateId": 1},
   {"id": 3,"zipnumber": 11113,"city": "Kota C","stateId": 2},
   {"id": 4,"zipnumber": 11114,"city": "Kota D","stateId": 2},
   {"id": 5,"zipnumber": 11115,"city": "Kota E","stateId": 3},
