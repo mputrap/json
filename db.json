@@ -1,5 +1,5 @@
 {
-  "zipcodes": [
+  "zipcodes-data": [
   {"id": 1,"zipcode": 11111,"city": "Kota A","stateID": 1},
   {"id": 2,"zipcode": 11112,"city": "Kota B","stateID": 1},
   {"id": 3,"zipcode": 11113,"city": "Kota C","stateID": 2},
