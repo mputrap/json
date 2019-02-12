@@ -1,0 +1,19 @@
+{
+  "zipcodes": [
+  {"id": 1,"zipcode": 11111,"city": "Kota A","stateID": 1},
+  {"id": 2,"zipcode": 11112,"city": "Kota B","stateID": 1},
+  {"id": 3,"zipcode": 11113,"city": "Kota C","stateID": 2},
+  {"id": 4,"zipcode": 11114,"city": "Kota D","stateID": 2},
+  {"id": 5,"zipcode": 11115,"city": "Kota E","stateID": 3},
+  {"id": 6,"zipcode": 11116,"city": "Kota F","stateID": 3},
+  {"id": 7,"zipcode": 11117,"city": "Kota G","stateID": 4},
+  {"id": 8,"zipcode": 11118,"city": "Kota H","stateID": 4},
+  {"id": 9,"zipcode": 11119,"city": "Kota I","stateID": 4}
+  ],
+  "states"[
+  {"id":1, "stateName":"Provinsi A"},
+  {"id":2, "stateName":"Provinsi B"},
+  {"id":3, "stateName":"Provinsi C"},
+  {"id":4, "stateName":"Provinsi D"},
+  ]
+}
